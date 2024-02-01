@@ -1,4 +1,4 @@
-<h1>Image encryption using RSA Crypto-system/h1>
+<h1>Image encryption using RSA Crypto-system</h1>
 
 Encryption is done to the individual RGB values of each pixel to change the colour. 
 Decryption is done in a similar manner to retrieve the original colour of the pixel.
